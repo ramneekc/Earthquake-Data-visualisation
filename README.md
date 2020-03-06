@@ -6,8 +6,8 @@ It also illustrates relationship between tectonic plates and seismic activity.
 
 Use the link below to see the live file
 ```
-https://ramneekc.github.io/Leaflet_Challenge/
+https://ramneekc.github.io/Earthquake-Data-visualisation/
 ```
-
+![](static/Screenshot%20(71).png)
 
 
