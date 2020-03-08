@@ -11,4 +11,4 @@ https://ramneekc.github.io/Earthquake-Data-visualisation/
 ![](static/Screenshot%20(71).png)
 
 # Technology used 
-```JavaScript, D3.js, Leaflet```
+```JavaScript, D3.js, Leaflet, HTML, CSS```
