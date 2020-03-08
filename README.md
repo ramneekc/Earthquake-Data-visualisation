@@ -1,4 +1,4 @@
-# Leaflet_Challenge  
+# Task 
 
 Used USGS to visualize earthquake data by creating different sized circles based on their magnitude.
 Popups provide additional information on each marker and legend tells magnitude associated with each colored markers.
